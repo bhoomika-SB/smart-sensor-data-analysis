@@ -1,62 +1,35 @@
-📊 Smart Sensor Data Analysis & Predictive Alert System
-🔹 Project Overview
+# Smart Sensor Data Analysis & Predictive Alert System
 
-This project demonstrates how sensor data can be analyzed using Python and Machine Learning to detect abnormal temperature patterns and generate predictive alerts. It combines Electronics concepts with Data Analytics to simulate real-world IoT monitoring systems.
+## 📌 Project Overview
+This project analyzes IoT sensor data (temperature & humidity) and builds a Machine Learning model to predict abnormal temperature conditions.
 
-🔹 Technologies Used
+It demonstrates how Electronics & Telecommunication concepts can be integrated with Data Analytics and Machine Learning.
 
-Python
+---
 
-Pandas
+## 🛠 Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Google Colab
+- GitHub
 
-Matplotlib
+---
 
-Scikit-learn
+## 📊 Features
+- Sensor data visualization
+- Alert generation for high temperature
+- Logistic Regression model training
+- Predictive classification
 
-Jupyter Notebook
+---
 
-🔹 Dataset
+## 🎯 Outcome
+Successfully built a predictive alert system capable of identifying abnormal temperature patterns.
 
-Synthetic temperature sensor readings collected over time.
+---
 
-🔹 Features
-
-Data cleaning & preprocessing
-
-Exploratory Data Analysis (EDA)
-
-Logistic Regression model for anomaly detection
-
-Visualization of temperature trends
-
-Predictive alert generation
-
-🔹 Project Structure
-sensor_data.csv       → Sensor dataset  
-analysis.ipynb        → Main analysis notebook  
-requirements.txt      → Python libraries  
-README.md             → Project documentation  
-
-🔹 How to Run
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open notebook:
-
-jupyter notebook analysis.ipynb
-
-🔹 Outcome
-
-Identified abnormal temperature patterns
-
-Built predictive alert logic
-
-Demonstrated AI + Electronics integration
-
-👩‍💻 Author
-
+## 👩‍💻 Author
 Bhoomika S B
 Electronics & Telecommunication Engineer
