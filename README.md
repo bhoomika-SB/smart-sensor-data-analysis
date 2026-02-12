@@ -25,8 +25,14 @@ It demonstrates how Electronics & Telecommunication concepts can be integrated w
 
 ---
 
-## 🎯 Outcome
-Successfully built a predictive alert system capable of identifying abnormal temperature patterns.
+## 🎯 Results
+
+- Logistic Regression model trained successfully
+- Achieved accurate classification of high-temperature alerts
+- Visualized temperature trends using Matplotlib
+- System can automatically flag abnormal sensor readings
+- Demonstrates integration of Electronics concepts with Data Analytics
+
 
 ---
 
